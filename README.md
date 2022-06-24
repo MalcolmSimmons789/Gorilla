@@ -1,2 +1,2 @@
 # Gorilla
-Webste about Gorilla's
+This website is everything about gorillas.
